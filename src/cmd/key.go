@@ -29,7 +29,7 @@ var exportKeyCMD = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(keyCMD)
-	rootCmd.AddCommand(exportKeyCMD)
-	rootCmd.AddCommand(importKeyCMD)
+	//rootCmd.AddCommand(keyCMD)
+	//rootCmd.AddCommand(exportKeyCMD)
+	//rootCmd.AddCommand(importKeyCMD)
 }

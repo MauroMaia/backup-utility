@@ -44,5 +44,5 @@ func init() {
 	serverCMD.AddCommand(serverCMDadd)
 	serverCMD.AddCommand(serverCMDdelete)
 
-	rootCmd.AddCommand(serverCMD)
+	//	rootCmd.AddCommand(serverCMD)
 }
